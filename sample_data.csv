@@ -1,0 +1,16 @@
+Student_ID,Daily_Usage_Hours,Platform,Main_Purpose,Study_Hours,Academic_Impact
+1,2,Instagram,Entertainment,4,Neutral
+2,5,YouTube,Education,3,Positive
+3,6,Instagram,Entertainment,2,Negative
+4,3,WhatsApp,Communication,5,Neutral
+5,4,YouTube,Education,4,Positive
+6,7,Instagram,Entertainment,2,Negative
+7,2,WhatsApp,Communication,5,Neutral
+8,5,YouTube,Education,3,Positive
+9,6,Instagram,Entertainment,2,Negative
+10,3,WhatsApp,Communication,4,Neutral
+11,4,Instagram,Entertainment,3,Neutral
+12,2,YouTube,Education,5,Positive
+13,7,Instagram,Entertainment,1,Negative
+14,3,WhatsApp,Communication,4,Neutral
+15,5,YouTube,Education,3,Positive
